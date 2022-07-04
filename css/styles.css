@@ -1,0 +1,164 @@
+/* Reset styles */
+.list {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+/* Body styles */
+.page {
+    color: #757575;
+    background-color: #E5E5E5;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.03em;
+    /* font-weight: 400; */
+}
+
+/* Logo */
+.logo {
+    font-family: Raleway, sans-serif;
+    font-size: 26px;
+    line-height: 1.2;
+    
+}
+/* Hidden title */
+.hidden-title {
+
+}
+
+/* Text title */
+.studio-title, 
+.portfolio-title, 
+.team-title,
+.name-title {
+    color: #212121;    
+}
+.underheader-title {
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.4;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+ 
+}
+.studio-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+.studio-text {
+    font-size: 14px;
+    line-height: 1.2;
+}
+.name-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+}
+.team-title,
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.2;
+    text-align: center;
+}
+.name-title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+}
+/* Logo */
+.accent {
+    color: #2196F3;
+}
+.logo-dark {
+    color: #000;
+}
+.logo-light {
+    color: #ffffff;
+}
+/* Primary background color #E5E5E5 */
+
+/* Secondary background color #F5F4FA */
+.header {
+    background-color: #fff;
+}
+.incolor-section {
+    background-color: #2F303A;
+}
+.team {
+    background-color: #F5F4FA;
+}
+/* Navigations */
+.site-nav .link {
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.2; 
+    letter-spacing: 0.02em;   
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+} 
+.site-nav .link.current {
+    color: #2196F3;
+}
+.link.header-contacts {
+    color: #757575;
+}
+/* Footer */
+address {
+    font-style: normal;
+}
+.addr {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 1.8;
+}
+.footer-contacts {
+    color: #ffffff96;
+    font-size: 14px;
+    line-height: 1.8;
+    
+}
+/* Buttons */
+.button {
+    color: #212121;
+    background-color: #F5F4FA;
+    font-family: inherit;
+    cursor: pointer;
+}
+.button.index-page {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.06em;
+}
+.button.port {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+}
+.button.primary {
+    color: #ffffff;
+    background-color: #2196F3;
+}
+.portfolio-text h2 {
+    color: #212121;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+.portfolio-text p {
+    color: #757575;
+    font-size: 16px;
+    line-height: 1.8;
+}
